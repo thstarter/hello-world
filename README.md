@@ -1,3 +1,4 @@
 # hello-world
-Creating a repository.
-Learning version control and python.
+Creating my first repository.
+Currently learning version control, command line, vscode, and python.
+Eager to learn c++ next.
